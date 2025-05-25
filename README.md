@@ -1,6 +1,7 @@
 ## André aqui! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Software;
+- 🚀 Desenvolvedor Fullstack
 - 🗄️ Foco em BackEnd com Java / Node.JS;
 - 🤖 Foco em ML/DeepLearning Redes neurais com Python;
 
