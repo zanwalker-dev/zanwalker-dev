@@ -7,10 +7,7 @@
 
 Ultimamente usando muito Java devido a projetos da faculdade 🚀
 
-<div>
-  <a href="https://github.com/zanwalker-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwalker-dev&layout=compact&theme="dracula"/>
-</div>
+
 
  ##
 
