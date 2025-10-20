@@ -24,9 +24,7 @@ Ultimamente usando muito Java devido a projetos da faculdade 🚀
  ---
 
 <div style="display: inline_block"><br>
-  <img align="center-center" alt="Icon-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs
-/nestjs-original.svg">
-  <img align="center-center" alt="Icon-Nest" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/spring/spring-original.svg">
+  <img align="center-center" alt="Icon-Nest" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
   <img align="center-center" alt="Icon-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center-center" alt="Icon-Next" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center-center" alt="Icon-Node" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
