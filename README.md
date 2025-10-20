@@ -7,10 +7,11 @@
 
 Ultimamente usando muito Java devido a projetos da faculdade 🚀
 
- <div>
-  <a href="https://github.com/zanwalker-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwalker-dev&layout=compact&theme=""/>
-</div>
+ ### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanwalker-dev&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
 
 
  ##
